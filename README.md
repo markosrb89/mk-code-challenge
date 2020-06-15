@@ -1,4 +1,4 @@
-# Stopwatch Application 🎁
+# Stopwatch Application
 Stopwatch where you can update the interval delay.
 
 ## Start the application
